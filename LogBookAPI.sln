@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogBookAPI", "LogBookAPI.csproj", "{E84C0E2A-FC29-49BC-92DC-61E25875D188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogbookAPI.UnitTest", "..\LogbookAPI.UnitTest\LogbookAPI.UnitTest.csproj", "{95D902E2-CDEB-4C62-81E2-3FD8D5DB2031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E84C0E2A-FC29-49BC-92DC-61E25875D188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84C0E2A-FC29-49BC-92DC-61E25875D188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84C0E2A-FC29-49BC-92DC-61E25875D188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84C0E2A-FC29-49BC-92DC-61E25875D188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D902E2-CDEB-4C62-81E2-3FD8D5DB2031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D902E2-CDEB-4C62-81E2-3FD8D5DB2031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D902E2-CDEB-4C62-81E2-3FD8D5DB2031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D902E2-CDEB-4C62-81E2-3FD8D5DB2031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2F8BB31-7A27-4838-BE36-CB8A8E56BC57}
+	EndGlobalSection
+EndGlobal
